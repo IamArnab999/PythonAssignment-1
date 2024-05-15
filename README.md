@@ -1,1 +1,1 @@
-Programs foe PCA 1.
+Programs for PCA 1.
